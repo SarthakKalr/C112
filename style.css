@@ -1,0 +1,22 @@
+body{
+    color:lawngreen;
+    background-color: darkblue;
+    font-family: 'Inspiration', cursive;
+    font-weight: bolder;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: 'Rubik Bubbles', cursive;
+    background-color: darkslategray;
+    color: whitesmoke;
+}
+#camera{
+    border: 2px dashed whitesmoke;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: goldenrod;
+    font-weight:bolder;
+}
